@@ -1,2 +1,3 @@
 # python_django_polls
-This is a polling web application.
+
+> This is a polling web application.
